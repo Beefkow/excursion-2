@@ -1,0 +1,23 @@
+{
+  "characters": [
+      {
+          "name": "Beefkow",
+          "stats": {
+              "Strength": 5,
+              "Agility": 3,
+              "Stamina": 4,
+              "Intellect": 1
+          }
+      },
+      
+      {
+        "name": "Holykow",
+        "stats": {
+            "Strength": 2,
+            "Agility": 10,
+            "Stamina": 8,
+            "Intellect": 9
+        }
+    }  
+  ]
+}
